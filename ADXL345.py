@@ -1,6 +1,5 @@
 from machine import Pin,I2C
-import math
-import time
+
 
 device = 0x18
 regAddress = 0x28
